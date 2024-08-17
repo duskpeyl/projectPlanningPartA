@@ -17,5 +17,11 @@
 * As a user, I want the application to be optimized for mobile devices, so that I can access the features and content on the go, whether I'm at the grocery store, at the gym, or anywhere else.
 * As a user, I want the mobile experience to be seamless and intuitive, so that I can easily navigate the application and find the information I need quickly.
 
-## R6	Trello Screenshots
+## R6 Trello Screenshots
 ### 14/08/2024
+![ToDo1.png](./docs/ToDo1.png)
+![ToDo2.png](./docs/ToDo2.png)
+![ToDo3.png](./docs/ToDo3.png)
+![ToDo4.png](./docs/ToDo4.png)
+![ToDo5.png](./docs/ToDo5.png)
+
